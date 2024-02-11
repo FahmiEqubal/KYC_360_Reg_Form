@@ -26,6 +26,6 @@ Welcome to the Registration Management System project! This C# project provides 
 
 ## About Me
 
-Hi, I'm [Equbal Fahmi]! As a software developer passionate about creating impactful solutions, I developed this project as part of my journey in learning C# and .NET development. If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me at [iqubalfahmi@gmail.com](mailto:your@email.com).
+Hi, I'm Equbal Fahmi! As a software developer passionate about creating impactful solutions, I developed this project as part of my journey in learning C# and .NET development. If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me at [iqubalfahmi@gmail.com](mailto:your@email.com).
 
 Enjoy exploring the Registration Management System!
