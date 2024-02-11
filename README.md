@@ -1,6 +1,6 @@
 # Registration
 
-Welcome to the Student Registration Management System project! This C# project provides a user-friendly interface for managing student registration and enrollment. Below, you'll find detailed information about the features, technologies used, and how to use the application.
+Welcome to the Registration Management System project! This C# project provides a user-friendly interface for managing student registration and enrollment. Below, you'll find detailed information about the features, technologies used, and how to use the application.
 
 ## Features
 
@@ -28,4 +28,4 @@ Welcome to the Student Registration Management System project! This C# project p
 
 Hi, I'm [Equbal Fahmi]! As a software developer passionate about creating impactful solutions, I developed this project as part of my journey in learning C# and .NET development. If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me at [iqubalfahmi@gmail.com](mailto:your@email.com).
 
-Enjoy exploring the Student Registration Management System!
+Enjoy exploring the Registration Management System!
