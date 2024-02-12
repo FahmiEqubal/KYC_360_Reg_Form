@@ -2,6 +2,14 @@
 
 Welcome to the Registration Management System project! This C# project provides a user-friendly interface for managing student registration and enrollment. Below, you'll find detailed information about the features, technologies used, and how to use the application.
 
+# My GitHub Files
+
+![Screenshot](StudentRegistration/Documnts/Screenshot%202024-02-11%20131736.png)
+
+[Equbal Fahmi 12018038.docx](StudentRegistration/Documnts/Equbal%20Fahmi%2012018038.docx)
+
+[Equbal Fahmi 12018038.pdf](StudentRegistration/Documnts/Equbal%20Fahmi%2012018038.pdf)
+
 ## Features
 
 1. Add, Edit, Delete Records: Easily add new student records to the system, edit existing records, and delete unnecessary entries.
