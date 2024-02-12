@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\HP\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
